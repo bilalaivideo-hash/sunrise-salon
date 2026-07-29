@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bilalaivideo-hash.github.io/sunrise-salon/sitemap.xml
